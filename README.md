@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self-taught software developer who has been improving my backend technical skills for the past 2.5 years through project-based learning and reading informational books. Currently, I'm working on a Postgres table manager, a user interface designed for individuals who need to use Postgres without taking the time to learn SQL.
+I'm a self-taught developer whos is into creating low level software.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-lacina-071191306)
