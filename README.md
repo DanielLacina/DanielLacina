@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self-taught developer whos is into creating low level software.
+I'm a self-taught developer who is into creating low level software.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-lacina-071191306)
